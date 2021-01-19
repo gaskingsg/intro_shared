@@ -218,6 +218,16 @@ input, select, textarea {
 
 /* Container */
 
+.img-with-text {
+    text-align: justify;
+    width: 350px;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
